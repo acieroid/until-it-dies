@@ -6,7 +6,7 @@
   :maintainer "Josh Marchán <sykopomp@sykosomatic.org>"
   :author "Josh Marchán <sykopomp@sykosomatic.org>"
   :licence "BSD-style"
-  :depends-on (sheeple cl-opengl)
+  :depends-on (sheeple cl-opengl zpb-ttf)
   :serial t
   :components
   ((:module "src"
