@@ -43,7 +43,7 @@
   :maintainer "Josh Marchán <sykopomp@sykosomatic.org>"
   :author "Josh Marchán <sykopomp@sykosomatic.org>"
   :licence "BSD-style"
-  :depends-on (until-it-dies.base)
+  :depends-on (until-it-dies.base zpb-ttf split-sequence)
   :components
   ((:module "src"
             :components
