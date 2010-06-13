@@ -27,17 +27,6 @@
              (:file "window" :depends-on ("util" "view"))
              (:file "engine" :depends-on ("util" "window"))))))
 
-(asdf:defsystem until-it-dies.examples
-  :version "0.1 (unreleased)"
-  :description "Examples for Until It Dies -- A 2D Game Engine"
-  :maintainer "Josh Marchán <sykopomp@sykosomatic.org>"
-  :author "Josh Marchán <sykopomp@sykosomatic.org>"
-  :licence "MIT"
-  :depends-on (until-it-dies)
-  :components
-  ((:module "examples" :components
-            ((:file "basic")))))
-
 (asdf:defsystem until-it-dies.graphics
   :version "0.1 (unreleased)"
   :description "Until It Dies -- Fancy graphics module."
