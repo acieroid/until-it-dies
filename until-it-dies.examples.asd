@@ -1,5 +1,5 @@
 (asdf:defsystem until-it-dies.examples
-  :version "0.1 (unreleased)"
+  :version "0.1"
   :description "Examples for Until It Dies -- A 2D Game Engine"
   :maintainer "Josh Marchán <sykopomp@sykosomatic.org>"
   :author "Josh Marchán <sykopomp@sykosomatic.org>"

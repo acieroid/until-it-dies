@@ -1,5 +1,5 @@
 (asdf:defsystem until-it-dies.graphics
-  :version "0.1 (unreleased)"
+  :version "0.1"
   :description "Until It Dies -- Fancy graphics module."
   :maintainer "Josh Marchán <sykopomp@sykosomatic.org>"
   :author "Josh Marchán <sykopomp@sykosomatic.org>"

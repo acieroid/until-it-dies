@@ -1,7 +1,7 @@
 ;;;; -*- Mode: Lisp; Syntax: ANSI-Common-Lisp; Base: 10; indent-tabs-mode: nil -*-
 
 (asdf:defsystem until-it-dies
-  :version "0.1 (unreleased)"
+  :version "0.1"
   :description "Until It Dies -- A 2D Game Engine."
   :maintainer "Josh Marchán <sykopomp@sykosomatic.org>"
   :author "Josh Marchán <sykopomp@sykosomatic.org>"
